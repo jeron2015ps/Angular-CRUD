@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+
+.caja-login {
+  border: 2px solid red;
+  padding: 20px;
+  max-width: 300px;
+  margin: 40px auto;
+  text-align: center;
+}
+.anadirproductos {
+  border: 2px solid blue;
+  padding: 20px;
+  max-width: 300px;
+  margin: 40px auto;
+  text-align: center;
+}
